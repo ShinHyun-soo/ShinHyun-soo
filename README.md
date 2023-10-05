@@ -1,4 +1,5 @@
-![NJ_GetUp_NewLogo (3)](https://github.com/ShinHyun-soo/ShinHyun-soo/assets/69250097/96b2d444-94ff-4977-9d14-9e983ee338a6)
+![NJ_GetUp_NewLogo (4)](https://github.com/ShinHyun-soo/ShinHyun-soo/assets/69250097/1d239596-c79d-4288-b7e0-81e4d5aebf0c)
+
 
 <!--
 **ShinHyun-soo/ShinHyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
