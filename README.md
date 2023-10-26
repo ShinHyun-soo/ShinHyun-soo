@@ -1,4 +1,3 @@
-![NJ_GetUp_NewLogo (4)](https://github.com/ShinHyun-soo/ShinHyun-soo/assets/69250097/1d239596-c79d-4288-b7e0-81e4d5aebf0c)
 
 
 <!--
