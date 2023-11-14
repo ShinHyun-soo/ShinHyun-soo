@@ -1,4 +1,4 @@
-In The Bleak Midwinter
+In the bleak midwinter,
 
 <!--
 **ShinHyun-soo/ShinHyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
