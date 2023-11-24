@@ -1,5 +1,6 @@
-In the bleak midwinter,
-
+안녕하세요. <br>
+저는 고등학교 2학년 때 레이 커즈 와일의 특이점이 온다라는 책을 기반으로 작성된 어느 한 블로그 포스트를 읽고 <br>초강인공지능에 매료되어 지금까지 인공지능에 대해 공부를 하고 있습니다. <br>
+감사합니다.
 <!--
 **ShinHyun-soo/ShinHyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
