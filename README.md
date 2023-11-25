@@ -1,7 +1,7 @@
 안녕하세요.  
 
 - Name : 신현수
-- Email : 2091126@hansung.ac.kr 
+- E-mail : 2091126@hansung.ac.kr 
 - Interests : AGI
 - Education
  
