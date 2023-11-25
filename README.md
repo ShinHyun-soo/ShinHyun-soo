@@ -1,16 +1,17 @@
-![image](https://github.com/ShinHyun-soo/ShinHyun-soo/assets/69250097/1efd27db-ef57-4221-bf54-50f82a7fe931)
+안녕하세요.  
 
-<!--
-**ShinHyun-soo/ShinHyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name : 신현수
+- Email : 2091126@hansung.ac.kr 
+- Interests : AGI
+- Education
+ 
+  |학력|기관|1트랙|2트랙|부전공|기간|
+  |---|---|---|---|---|---|
+  |학사|한성대학교|지능시스템|빅데이터|AI 전문과정|2020.03~2026.02|
 
-Here are some ideas to get you started:
+- Awards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  |대회|대회명|순위|상위|분류|기간|
+  |---|------|----|----|---|
+  |Dacon|제주 특산물 가격 예측 AI 경진대회|172/1093|16%|시계열|2023.10~2023.11|
+
