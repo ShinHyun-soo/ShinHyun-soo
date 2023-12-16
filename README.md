@@ -2,7 +2,7 @@
 
 - Name : 신현수
 - E-mail : 2091126@hansung.ac.kr 
-- Interests : AGI
+- Interests : GAN
 - Education
  
   |학력|기관|1트랙|2트랙|Micro Degree|기간|
