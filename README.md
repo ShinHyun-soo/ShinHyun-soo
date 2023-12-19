@@ -1,19 +1,4 @@
-안녕하세요.  
+<a href="https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%8B%A0-7412b7253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a> <a href="https://www.instagram.com/hyun5ooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a> <a href="https://shinhyun-soo.github.io/" target="_blank"><img src="https://img.shields.io/badge/GithubBlog-494949?style=flat-square&logo=GitHub&logoColor=white?labelColor=ffffff"></a>
 
-- Name : 신현수
-- E-mail : 2091126@hansung.ac.kr 
-- Interests : GAN
-- Education
- 
-  |학력|기관|1트랙|2트랙|Micro Degree|기간|
-  |---|---|---|---|---|---|
-  |학사|한성대학교|지능시스템|빅데이터|AI 전문과정|2020.03~2026.02|
-
-- Awards
-
-  |주관|대회명|순위|상위|분류|기간|
-  |---|------|----|----|---|---|
-  |Dacon|제주 특산물 가격 예측 AI 경진대회|172/1093|16%|시계열|2023.10~2023.11|
-  |Dacon|제1회 국민대학교 AI빅데이터 분석 경진대회|85/576|15%|추천시스템|2023.10~2023.11|
-  |Dacon|대구 교통사고 피해 예측 AI 경진대회|143/942|15%|회귀|2023.11~2023.12|
-
+### Main Tech Stack
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
