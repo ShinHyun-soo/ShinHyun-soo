@@ -15,7 +15,7 @@
 > * __PointNet__ [Blog](https://shinhyun-soo.github.io/PointNet/)
 > * __Linear Regression__ [Blog](https://shinhyun-soo.github.io/Linear-Regression/)
  
-### Projects & Competitions
+### Toy Projects & Competitions
 
 > * __Puzzle Img AI Competition__ [Dacon](https://dacon.io/competitions/official/236207/overview/description), Jan.2024-Feb.2024, Ongoing.
 > * __Chatbot__ [Codes](https://github.com/ShinHyun-soo/chatbot/) Sep.2023-Oct.2023, Incomplete. _Vram Problem._
