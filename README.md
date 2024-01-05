@@ -1,4 +1,4 @@
-[__cv__](https://acrobat.adobe.com/id/urn:aaid:sc:AP:41cdc893-2159-4435-9bab-173004102aba) [__Portfolio__]()
+[__cv__](https://acrobat.adobe.com/id/urn:aaid:sc:AP:41cdc893-2159-4435-9bab-173004102aba) __Portfolio__
 
 ### Academic Presentations
 
