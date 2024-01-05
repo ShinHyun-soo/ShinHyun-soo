@@ -10,7 +10,7 @@
 
 ### Academic exploration
 
-* SBERT [(Blog)](https://shinhyun-soo.github.io/sbert/)
+* SBERT(Sentence BERT) [(Blog)](https://shinhyun-soo.github.io/sbert/)
 
 ### Projects
 
