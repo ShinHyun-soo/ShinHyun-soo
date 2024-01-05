@@ -3,14 +3,14 @@
 ### Academic Presentations
 
 > * __Math for Logistic Regression__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=aa1050a678baff365b5d21b36d5fbe37) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:0bef3ea1-16a2-4ab2-9ec6-9ce7e111afca) 
-> * __Single-variate Linear Regression With a mathmatical approach__ [(Video)](https://hansung.webex.com/hansung/ldr.php?RCID=0afae573ce6ceb63c3ae25d65833e82a) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:fbc86a55-e629-4e95-b080-85ca017597f2) 
+> * __Single-variate Linear Regression With a mathmatical approach__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=0afae573ce6ceb63c3ae25d65833e82a) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:fbc86a55-e629-4e95-b080-85ca017597f2) 
 > * __Markov Decision Process__  [Video](https://hansung.webex.com/hansung/ldr.php?RCID=92d2534d78c37dfb526ff83d6904e7ad) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2fa23830-f414-4b4d-8fbb-baf7f016818e) 
 > * __Attention Score__  [Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:61b0273e-a310-443d-a279-0f11f0c4ba16) 
 > * __Let's build GPT:from scratch,in code,spelled out.__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8ba50a2e-7403-4e4b-a51e-697a80c87ac2) 
 
 ### Academic exploration
 
-> * __SBERT(Sentence BERT)__ [(Blog)](https://shinhyun-soo.github.io/sbert/)
+> * __SBERT(Sentence BERT)__ [Blog](https://shinhyun-soo.github.io/sbert/)
 
 ### Projects & Competitions
 
