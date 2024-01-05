@@ -19,7 +19,7 @@
 
 ### Experiences
 
-* Lg Aimers 4th (Jun.2024-Feb.2024)
-* AI Study Together Web Seminar (Jul.2023- )
+* Lg Aimers 4th , [Lg Aimers](https://www.lgaimers.ai/) (Jun.2024-Feb.2024)
+* AI Study Together Web Seminar, Hansung Univ. (Jul.2023- )
   
 
