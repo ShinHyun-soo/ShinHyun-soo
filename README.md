@@ -1,4 +1,4 @@
-[__cv__](https://acrobat.adobe.com/id/urn:aaid:sc:AP:41cdc893-2159-4435-9bab-173004102aba) [__LikedIn__](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%8B%A0-7412b7253/)
+[__cv__](https://acrobat.adobe.com/id/urn:aaid:sc:AP:41cdc893-2159-4435-9bab-173004102aba) , [__LikedIn__](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%8B%A0-7412b7253/)
 
 ### Academic Presentations
 
