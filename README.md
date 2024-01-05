@@ -18,10 +18,10 @@
  
 ### Toy Projects & Competitions
 
-> * __Puzzle Img AI Competition__ [Dacon](https://dacon.io/competitions/official/236207/overview/description), Jan.2024-Feb.2024, Ongoing.
+> * __Puzzle Img AI Competition__ , [Dacon](https://dacon.io/competitions/official/236207/overview/description), Jan.2024-Feb.2024, Ongoing.
 > * __Chatbot__ [Codes](https://github.com/ShinHyun-soo/chatbot/) Sep.2023-Oct.2023, Incomplete. _Vram Problem._
 > * __Pet Skin Disease Classifier__  [Codes](https://github.com/ShinHyun-soo/pet-skin-disease-classifier) / [Video](https://hansung.webex.com/hansung/ldr.php?RCID=f90b10eca0290af39d4878a86380f652) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cbc4f09-8510-47c7-9ea6-4e8344bee5d4) Jun.2023-Aug.2023 Incomplete. _Vram Problem._
-> * __우주대타(Would you gig-job?)__, [SBA](https://www.sba.seoul.kr) [Video](https://drive.google.com/file/d/1LRMjRO4s6z9x9fUKl_8qzcrjydZcWiop/view?usp=drive_link) Sep.2020-Dec.2020 __Awards__
+> * __우주대타__, [SBA](https://www.sba.seoul.kr) [Video](https://drive.google.com/file/d/1LRMjRO4s6z9x9fUKl_8qzcrjydZcWiop/view?usp=drive_link) Sep.2020-Dec.2020 __Awards__
 
 
 ### Experiences
