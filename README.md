@@ -20,6 +20,6 @@
 ### Experiences
 
 > * __Lg Aimers 4th__ , [Lg Aimers](https://www.lgaimers.ai/) Jun.2024-Feb.2024
-> * __Web Seminar__, [AI Study Together](https://sites.google.com/hansung.ac.kr/ai-study-scheduler/%ED%99%88), Hansung Univ., Jul.2023- 
+> * __Web Seminar__, [AI Study Together](https://sites.google.com/hansung.ac.kr/ai-study-scheduler/%ED%99%88), _Hansung Univ._, Jul.2023- 
   
 
