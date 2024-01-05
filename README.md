@@ -12,10 +12,10 @@
 
 * SBERT(Sentence BERT) [(Blog)](https://shinhyun-soo.github.io/sbert/)
 
-### Projects
+### Projects & Competitions
 
-* Pet Skin Disease Classifier (Jun.2023) [Codes](https://github.com/ShinHyun-soo/pet-skin-disease-classifier) [Video](https://hansung.webex.com/hansung/ldr.php?RCID=f90b10eca0290af39d4878a86380f652) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cbc4f09-8510-47c7-9ea6-4e8344bee5d4) Pause (Vram Problem.)
-* Puzzle Img AI Competition (Jan.2024)- Ongoing.
+* Pet Skin Disease Classifier (Jun.2023) [Codes](https://github.com/ShinHyun-soo/pet-skin-disease-classifier) [Video](https://hansung.webex.com/hansung/ldr.php?RCID=f90b10eca0290af39d4878a86380f652) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cbc4f09-8510-47c7-9ea6-4e8344bee5d4)  Pause (Vram Problem.)
+* Puzzle Img AI Competition, [Dacon](https://dacon.io/competitions/official/236207/overview/description), (Jan.2024-), Ongoing.
 
 ### Experiences
 
