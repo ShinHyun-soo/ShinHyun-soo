@@ -11,7 +11,10 @@
 ### Academic exploration
 
 > * __SBERT(Sentence BERT)__ [Blog](https://shinhyun-soo.github.io/sbert/)
-
+> * __MLE(Maximum Likelihood)__ [Blog](https://shinhyun-soo.github.io/Maximum-Likelihood/)
+> * __PointNet Classification__ [Blog](https://shinhyun-soo.github.io/PointNet/)
+> * __Linear Regression__ [Blog](https://shinhyun-soo.github.io/Linear-Regression/)
+ 
 ### Projects & Competitions
 
 > * __Pet Skin Disease Classifier__  [Codes](https://github.com/ShinHyun-soo/pet-skin-disease-classifier) / [Video](https://hansung.webex.com/hansung/ldr.php?RCID=f90b10eca0290af39d4878a86380f652) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cbc4f09-8510-47c7-9ea6-4e8344bee5d4) Jun.2023- Pause _Vram Problem._
