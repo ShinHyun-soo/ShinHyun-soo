@@ -10,9 +10,9 @@
 
 ### Academic exploration
 
-> * __SBERT(Sentence BERT)__ [Blog](https://shinhyun-soo.github.io/sbert/)
-> * __MLE(Maximum Likelihood)__ [Blog](https://shinhyun-soo.github.io/Maximum-Likelihood/)
-> * __PointNet Classification__ [Blog](https://shinhyun-soo.github.io/PointNet/)
+> * __SBERT__ [Blog](https://shinhyun-soo.github.io/sbert/)
+> * __Maximum Likelihood__ [Blog](https://shinhyun-soo.github.io/Maximum-Likelihood/)
+> * __PointNet__ [Blog](https://shinhyun-soo.github.io/PointNet/)
 > * __Linear Regression__ [Blog](https://shinhyun-soo.github.io/Linear-Regression/)
  
 ### Projects & Competitions
