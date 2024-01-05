@@ -1,4 +1,14 @@
-<a href="https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%8B%A0-7412b7253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a> <a href="https://www.instagram.com/hyun5ooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a> <a href="https://shinhyun-soo.github.io/" target="_blank"><img src="https://img.shields.io/badge/GithubBlog-494949?style=flat-square&logo=GitHub&logoColor=white?labelColor=ffffff"></a>
+[cv](https://acrobat.adobe.com/id/urn:aaid:sc:AP:41cdc893-2159-4435-9bab-173004102aba)
 
-### Main Tech Stack
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Academic Presentations
+
+* Math for Logistic Regression [Video](https://hansung.webex.com/hansung/ldr.php?RCID=aa1050a678baff365b5d21b36d5fbe37) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:0bef3ea1-16a2-4ab2-9ec6-9ce7e111afca) (Dec.2023)
+* Single-variate Linear Regression With a mathmatical approach [Video](https://hansung.webex.com/hansung/ldr.php?RCID=0afae573ce6ceb63c3ae25d65833e82a) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:fbc86a55-e629-4e95-b080-85ca017597f2) (Nov.2023)
+* Markov Decision Process [video](https://hansung.webex.com/hansung/ldr.php?RCID=92d2534d78c37dfb526ff83d6904e7ad) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2fa23830-f414-4b4d-8fbb-baf7f016818e) (Aug.2023)
+* Attention Score [Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:61b0273e-a310-443d-a279-0f11f0c4ba16) (Jul.2023)
+* Let's build GPT:from scratch,in code,spelled out.[Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8ba50a2e-7403-4e4b-a51e-697a80c87ac2) (Jul.2023)
+
+### Project
+Pet Skin Disease Classifier [Codes](https://github.com/ShinHyun-soo/pet-skin-disease-classifier) [Video](https://hansung.webex.com/hansung/ldr.php?RCID=f90b10eca0290af39d4878a86380f652) [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5cbc4f09-8510-47c7-9ea6-4e8344bee5d4) Pause (Vram Problem.)
+  
+
