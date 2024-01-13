@@ -3,7 +3,7 @@
 ![image](https://github.com/ShinHyun-soo/ShinHyun-soo/assets/69250097/2dedc676-0e76-4af1-b781-b43a7379447c)
 
 
-### Academic Presentations
+### Presentations
 
 > * __Math for Logistic Regression__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=aa1050a678baff365b5d21b36d5fbe37) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:0bef3ea1-16a2-4ab2-9ec6-9ce7e111afca) 
 > * __Single-variate Linear Regression With a mathmatical approach__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=0afae573ce6ceb63c3ae25d65833e82a) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:fbc86a55-e629-4e95-b080-85ca017597f2) 
