@@ -31,6 +31,6 @@
 > * __Web Seminar__, [AI Study Together](https://sites.google.com/hansung.ac.kr/ai-study-scheduler/%ED%99%88), _Hansung Univ._, Jul.2023-
 
 
-> Ref. @taemin6697
+Ref. @taemin6697
   
 
