@@ -11,9 +11,6 @@
 > * __Attention Score__  [Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:61b0273e-a310-443d-a279-0f11f0c4ba16) 
 > * __Let's build GPT:from scratch,in code,spelled out.__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=80011d2126fbcea39ab1300cfca1e1ab) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8ba50a2e-7403-4e4b-a51e-697a80c87ac2)
 > * __Image Fine-grained Inpainting with DMFN__ [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:38b24dc3-6265-46a7-94b0-6b33c4dac070)
-
-### Academic explorations
-
 > * __SBERT__ [Blog](https://shinhyun-soo.github.io/sbert/)
 > * __Maximum Likelihood__ [Blog](https://shinhyun-soo.github.io/Maximum-Likelihood/)
 > * __PointNet__ [Blog](https://shinhyun-soo.github.io/PointNet/)
