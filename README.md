@@ -29,7 +29,7 @@
 
 ### Experiences
 
-> * __DLRD Lab__ , _Hansung Univ._, Jan.2024-
+> * __DLRD Lab.__ , Hansung Univ., Jan.2024-
 > * __Lg Aimers 4th__ , [Lg Aimers](https://www.lgaimers.ai/) Jan.2024-Feb.2024
 > * __Web Seminar__, [AI Study Together](https://sites.google.com/hansung.ac.kr/ai-study-scheduler/%ED%99%88), _Hansung Univ._, Jul.2023- 
   
