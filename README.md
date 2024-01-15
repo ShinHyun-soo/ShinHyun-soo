@@ -5,6 +5,7 @@
 
 ### Presentations
 
+> * __PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [Charles R. Qi et al., CVPR 2017]__ [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6446a46e-7e72-4626-b710-7fe093b28e01)
 > * __Math for Logistic Regression__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=aa1050a678baff365b5d21b36d5fbe37) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:0bef3ea1-16a2-4ab2-9ec6-9ce7e111afca) 
 > * __Single-variate Linear Regression With a mathmatical approach__ [Video](https://hansung.webex.com/hansung/ldr.php?RCID=0afae573ce6ceb63c3ae25d65833e82a) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:fbc86a55-e629-4e95-b080-85ca017597f2) 
 > * __Markov Decision Process__  [Video](https://hansung.webex.com/hansung/ldr.php?RCID=92d2534d78c37dfb526ff83d6904e7ad) / [Slides](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2fa23830-f414-4b4d-8fbb-baf7f016818e) 
