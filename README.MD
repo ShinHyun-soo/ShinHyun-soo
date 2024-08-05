@@ -1,3 +1,7 @@
+#### Interest
+---
+- Development of On-device AI Application on Mobile Phone
+
 #### Skill Inventory
 ---
 - Python 
@@ -10,6 +14,4 @@
 - Ubuntu 22.04
 - WSL2
 
-#### Interest
----
-- Development of On-device AI on Mobile Phone
+
