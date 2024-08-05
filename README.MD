@@ -1,6 +1,6 @@
 #### Interest
 ---
-- Development of On-device AI Application on Mobile Phone
+- Computer Vision, Computer Science
 
 #### Skill Inventory
 ---
