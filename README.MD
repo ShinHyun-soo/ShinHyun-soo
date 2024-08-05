@@ -2,7 +2,7 @@
 ---
 - Computer Vision, Computer Science
 
-#### Skill Inventory
+#### Skill
 ---
 - Python 
 - C/C++ 
