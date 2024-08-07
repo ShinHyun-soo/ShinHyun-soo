@@ -1,6 +1,6 @@
 #### Interest
 ---
-- Computer Vision, Computer Science
+- Computer Science, Vision
 
 #### Skill
 ---
