@@ -1,11 +1,10 @@
 #### Interest
 ---
-- Computer Science, Vision
+- Computer Vision
 
 #### Skill
 ---
 - Python 
-- C/C++ 
 - Oracle 21c
 
 #### OS
