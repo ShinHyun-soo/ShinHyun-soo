@@ -18,3 +18,7 @@
 - Puzzle Image AI Competition (CV) 27th of 369 Persons 
 - Low-resolution Bird Image Classification AI Competition (CV) 66th of 385 Teams
 - Fake Voice Detection AI Competition (?) 47th of 219 Teams
+
+#### Featured Projects
+---
+- Accessible Daegu Traffic Accidents AI Competition Winner's Code Commentary
