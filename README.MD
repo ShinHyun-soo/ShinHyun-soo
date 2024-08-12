@@ -22,3 +22,4 @@
 #### Featured Projects
 ---
 - Accessible Daegu Traffic Accidents AI Competition Winner's Code Commentary
+- Quiz Generator using OpenAI API [Link](https://quiz-bot-4.streamlit.app)
