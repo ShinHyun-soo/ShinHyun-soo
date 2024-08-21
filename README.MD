@@ -17,7 +17,7 @@
 ---
 - Puzzle Image AI Competition (CV) 27th of 369 Persons 
 - Low-resolution Bird Image Classification AI Competition (CV) 66th of 385 Teams
-- Fake Voice Detection AI Competition (?) 47th of 219 Teams
+- Fake Voice Detection AI Competition (Speech) 47th of 219 Teams
 
 #### Featured Projects
 ---
