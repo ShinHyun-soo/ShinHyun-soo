@@ -1,17 +1,14 @@
 #### Interest
 ---
-- Computer Vision
+- GPT, Diffusion
 
 #### Skills
 ---
-- Python 
-- Oracle 21c
+- Python, Oracle 21c
 
 #### OS
 ---
-- Windows 10, 11
-- Ubuntu 22.04
-- WSL2
+- Windows 10, Windows 11, Ubuntu 22.04, WSL2
 
 #### Featured Competitions
 ---
