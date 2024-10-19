@@ -1,4 +1,4 @@
-[cv](https://github.com/ShinHyun-soo/ShinHyun-soo/blob/ce71122514ff847c6e141125fc836558c4f9c11b/cv%20(2).pdf)
+[cv](https://github.com/ShinHyun-soo/ShinHyun-soo/blob/75833e5a8b597f0ea32a8185b3212b213eb49e9f/cv%20(3).pdf)
 #### Interest
 ---
 - GPT, Diffusion
