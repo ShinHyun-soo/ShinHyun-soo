@@ -9,4 +9,4 @@
 
 #### OS
 ---
-- Windows 10, Windows 11, Ubuntu 22.04, WSL2
+- Windows 11, Ubuntu 22.04, WSL2
