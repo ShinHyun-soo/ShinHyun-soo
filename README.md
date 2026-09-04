@@ -15,6 +15,7 @@
 ## 🔭 Research Experience
 
 ### **Visual Intelligence Lab. (Hansung Univ.)**
+* **Advisor:** Professor Heeseok Oh
 * **Period:** 2025.09 ~ Current
 * **Role:**
   * **M.S. Student** (2026.03 ~ Current)
